@@ -1,7 +1,6 @@
 DAT-01:
 
 JENKINS:
-
 its  a cicd too1.
 ci - continous integration 	: continous build + continous test
 cd - continous delivery 	: manual deployment to production
